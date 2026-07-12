@@ -1,9 +1,4 @@
-# 🛒 MarketNest — Multi-Vendor eCommerce
-## Apexcify Technologys Internship · Task 1
 
----
-
-## ✅ REQUIREMENTS COVERED
 - Shopping cart
 - Product details page
 - Order processing with tracking
@@ -79,13 +74,6 @@ marketnest_complete/
 │   └── utils/            ← Email + seeder
 └── frontend/
     └── index.html        ← Complete UI (all pages)
-```
-
----
-
-## GitHub Repo Name
-```
-ApexcifyTechnologys_MultiVendorEcommerce
 ```
 
 
